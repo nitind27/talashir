@@ -4,6 +4,7 @@ import HeaderSlider from "@/components/layout/Header/HeaderSlider";
 import Mainheader from "@/components/layout/Header/Mainheader";
 import Slidemassage from "@/components/layout/Marqueemsg/Slidemassage";
 
+import Providedetails from "@/components/Providedetail/Providedetails";
 
 import React from "react";
 
@@ -12,14 +13,12 @@ const page = () => {
     <div>
       <Mainheader />
       <div className="sticky top-0 z-50 bg-white shadow">
-        {" "}
-        {/* Add Tailwind classes here */}
         <HeaderBanner />
       </div>
       <HeaderSlider />
       <Slidemassage />
       <Content />
-   
+      <Providedetails />
     </div>
   );
 };

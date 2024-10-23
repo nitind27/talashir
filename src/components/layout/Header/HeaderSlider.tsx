@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import React from "react";
 import { Slide } from "react-slideshow-image";
 import "react-slideshow-image/dist/styles.css";
@@ -25,7 +24,7 @@ const HeaderSlider = () => {
       <Slide autoplay={true} duration={3000} transitionDuration={500}>
         {slideImages.map((slide, index) => (
           <div key={index} className="relative h-full">
-            <Image
+            <img
               src={slide.url}
               alt={`Slide ${index + 1}`}
               className="object-cover w-full h-full"
