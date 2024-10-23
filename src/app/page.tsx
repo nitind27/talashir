@@ -3,7 +3,7 @@ import HeaderBanner from "@/components/layout/Header/HeaderBanner";
 import HeaderSlider from "@/components/layout/Header/HeaderSlider";
 import Mainheader from "@/components/layout/Header/Mainheader";
 import Slidemassage from "@/components/layout/Marqueemsg/Slidemassage";
-import Detail from "@/components/Providedetail/Detail";
+
 
 import React from "react";
 
@@ -19,7 +19,7 @@ const page = () => {
       <HeaderSlider />
       <Slidemassage />
       <Content />
-      <Detail />
+   
     </div>
   );
 };
