@@ -3,7 +3,12 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-800 text-white py-8">
+    // <footer className=" text-black text-[20px] font-bold py-8 w-full" style={{
+    //   backgroundImage:
+    //     "url('https://arunachalpradesh.s3waas.gov.in/assets/images/footer-bg.jpg')",
+       
+    // }}>
+    <footer className="bg-gray-950 text-white py-8">
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap justify-between">
           <div className="w-full md:w-1/3 mb-6">

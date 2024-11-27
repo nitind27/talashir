@@ -6,7 +6,7 @@ import Footer from "../layout/Footer/Footer";
 const Providedetails = () => {
   const data1 = {
     title: "External",
-    items: ["Rule 1", "Rule 2", "Rule 3", "Rule 4"],
+    items: ["Rule 1", "Rule 2", "Rule 3", "Circular Regarding Inter College Transfer 2024-25"],
   };
 
   const data2 = {
@@ -40,11 +40,11 @@ const Providedetails = () => {
       }}
     >
       <div className="flex flex-col items-center mt-8 p-4">
-        <div className="flex flex-row space-x-4">
+        {/* <div className="flex flex-row space-x-4">
           {pdfData.map((item, index) => (
             <Detail key={index} title={item.title} pdfUrl={item.pdfUrl} />
           ))}
-        </div>
+        </div> */}
       </div>
       <div className="flex flex-wrap justify-center gap-4 p-4">
         <PdfDetail
@@ -63,7 +63,10 @@ const Providedetails = () => {
           additionalData="add detail"
         />
       </div>
-      <Footer />
+      <div>
+
+        <Footer />
+      </div>
     </div>
   );
 };

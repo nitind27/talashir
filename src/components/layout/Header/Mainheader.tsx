@@ -6,13 +6,13 @@ const Mainheader = () => {
     <div>
       <header className="bg-gray-800 text-white py-1">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold">
+          <h1 className="text-xl font-bold">
             {" "}
             <Socialmedia />
           </h1>
 
           <nav>
-            <ul className="flex items-center space-x-6">
+            <ul className="flex items-center space-x-6 md:text-[10px]">
               <li>
                 <a
                   href="/"

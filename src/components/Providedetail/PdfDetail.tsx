@@ -37,14 +37,12 @@ const PdfDetail: React.FC<PdfDetailProps> = ({ title, items, additionalData }) =
       </div>
       <div className="relative h-60 overflow-hidden bg-white">
         <div
-          className={`absolute transition-transform duration-1000 ease-in-out ${
-            isVisible ? "translate-y-0" : "-translate-y-full"
-          }`}
+          className={`absolute transition-transform duration-1000 ease-in-out ${isVisible ? "translate-y-0" : "-translate-y-full"
+            }`}
         >
           <div
-            className={`marquee ${isAnimating ? "visible" : ""} ${
-              isAnimating ? "" : "paused"
-            }`}
+            className={`marquee ${isAnimating ? "visible" : ""} ${isAnimating ? "" : "paused"
+              }`}
             onMouseEnter={() => setIsAnimating(false)} // Stop animation on mouse enter
             onMouseLeave={() => setIsAnimating(true)} // Resume animation on mouse leave
           >
@@ -53,7 +51,7 @@ const PdfDetail: React.FC<PdfDetailProps> = ({ title, items, additionalData }) =
               {items.map((item, index) => (
                 <li key={index} className="flex items-center mb-2">
                   <span className="mr-2 text-green-500">👉</span>
-                  <a href={`#${index + 1}`} className="text-blue-600 hover:underline">{item}</a>
+                  <a href={`#${index + 1}`} className="text-blue-600 hover:underline">{item}</a><img src="/assets/gif/new.gif"></img>
                 </li>
               ))}
             </ul>

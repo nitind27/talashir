@@ -5,7 +5,7 @@ const Content = () => {
   return (
     <>
       <h3 className="text-2xl font-bold mb-4 text-center mt-8">
-        From the Content
+      “ स्वच्छ पाडा सुंदर घर,निर्मल आपले पालघर ”
       </h3>
       <div className="container mx-auto  flex flex-col md:flex-row w-[80%] border p-6">
         <div className="flex-1 p-6 flex flex-col justify-center items-center">
@@ -17,37 +17,18 @@ const Content = () => {
               maxWidth: "800px",
             }}
           >
-            I feel elated to welcome all the young and dynamic aspirants into
-            the temple of learning. It is a matter of great pleasure for me to
-            bring innovative techno-savvy cognition and inventions to face new
-            challenges in the coming years. In the world of technology and
-            digital edge, we wish to provide a sense of development, commitment,
-            and values in the field of education through new horizons and
-            dynamism. We seek to give highly oriented dimensions to education
-            through the acceleration of new programs and innovative applications
-            in the international arena as well as to move forward to make
-            education dynamic by engaging all stakeholders with confidence to
-            reach the desired goal with all efforts for research and
-            developmental action. The aim is to endeavor for ICT-enabled
-            education and integration of ethical values in life, to promote
-            cultural and social impact, analytical skills, team spirit, and
-            leadership skills to help students make their career paths easier
-            while facing life’s challenges. In contemporary competitive times of
-            higher education, we want to turn challenges into opportunities for
-            future perspectives. New experiences will shape creative ways of
-            learning paradigms for e-learning with a virtual e-connect
-            environment. New learning outcomes will bring new hopes,
-            aspirations, innovations, passion, and a positive mindset to frame a
-            colorful page in life full of knowledge and learning.
+           
+            पंचायत समिती तलासरी
+            तलासरी तालुका पालघर जिल्हयातील 8 तालुक्यांपैकी बहुतांशी (90.73%) आदिवासी बहुल तालुका आहे.तालुका केंद्र शासीत प्रदेश दादरा नगर हवेली व गुजरात राज्य यांच्या सिमा भागेवर वसलेला आहे.तालुक्याच्या मध्य भागातुन मुंबई-अहमदाबाद राष्ट्रिय महामार्ग क्रमांक -8 जात आहे.तालुक्याचे भौगोलिक क्षेत्रफळ 26711 हेक्टर आहे. तलासरी तालुक्यात एकुण जिल्हा परिषदेचे 5 निवडणुक विभाग (गट) असुन उपलाट, सुत्रकार, डोंगारी, झाई ,उधवा,गटांचा समावेश आहे.पंचायत समितीचे 10 निर्वाचण गण असुन उधवा ,उपलाट, कोचाई, सुत्रकार, झरी ,डोंगारी ,गिरगाव ,झाई ,वसा व ,वडवली,गणांचा समावेश आहे. तालुक्यात 21 ग्रामपंचायती व 41 महसुल गावे असुन 214 पाडे आहेत तालुक्याचे 2011 च्या जनगणनेनुसार एकुण 1,54,818 लोकसंख्या आहे.त्यापैकी 76417 पुरूष व 78401 स्रियांची संख्या आहे..स्रियांचे प्रमाण ( 50.24) पुरूषांपेक्षा (49.76) जास्त आहे. 16304 कुटूंबे दारिद्रय रेषेखालील आहे. तालुक्यामध्ये वारली ,धोडिया ,कोकणा ,कातकरी ,जमाती प्रामुख्याने आढळुन येते .यामध्ये वारली समाजाची लोकसंख्या सर्वात जास्त आहे.या तलासरी तालुक्यात धोडिया वारली कोकणी भाषा बोलली जाते.यामध्ये उपलाट गटामध्ये डावर, वारली , झाई गटामध्ये कोकणी, धोडिया,भाषा प्रामुख्याने बोलली जाते.वारली कलाचित्र हे तालुक्यात लोकप्रिय व प्रचलीत आहे. तालुक्यातील मुख्य व्यवसाय शेती आहे.प्रामुख्याने भात हे मुख्य पीक असुन हे पीक पावसावर अवलंबुन आहे.येथे पावसाचे सरासरी प्रमाण 28.99 मिली मिटर आहे.तसेच प्रामुख्याने शिंदीच्या झाडांची मोठया प्रमाणात शेतांवर लागवड झालेली आहे.तलासरी तालुक्यातील शेती व्यतीरिक्त रोजगारासाठी बहुतांशी लोक महाराष्ट्र औदयोगिक विकास वसाहत-अच्छाड व गुजरात औदयोगिक विकास वसाहत उंबरगाव तसेच पुर्वेस सिमा लगत असलेला केंद्र शासीत प्रदेश दादरा नगर हवेली येथे जातात.तलासरी तालुक्याच्या ठिकाणी शासकिय कार्यालय सेवाभावी संस्था शैक्षणिक संस्था बँक पोस्ट इत्यादी सोयी सुविधा आहेत. एकुण पाहता तलासरी तालुक्यामध्ये गरीबातील गरीबापर्यंत पोहोचुन त्यांचा विकास करण्याची मोठी संधी या ठिकाणी आहे.महाराष्ट्र राज्य ग्रामिण जिवनोन्नती अभियाना (उमेद) मार्फत गरीब लोकांच्या संस्था तयार करून क्षमता बांधणी करणे आणी त्या माध्यमातुन शाश्वत रोजगार उपजिविका निर्माण करून त्यांचा विकास साधणे हे ध्येय डोळयासमोर ठेवुन वाटचाल करीत आहेत.
           </p>
         </div>
         <div className="flex-1 relative" >
           <Image
-            src="https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/w/z/g/small-spos8980-poster-bjp-logo-bhartiya-janta-party-with-modi-sl-original-imaghs5tcbe3ht2d.jpeg?q=90&crop=false" // Replace with your image path
+            src="https://talasari.zppalghar.in/pdfs/1628779862.jpg" // Replace with your image path
             alt="Description of Image"
             layout="fill" // This makes the image fill its container
             objectFit="cover" // This keeps aspect ratio while covering area
-   
+
           />
         </div>
       </div>
